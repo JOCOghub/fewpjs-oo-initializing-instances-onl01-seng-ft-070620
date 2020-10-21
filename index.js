@@ -1,1 +1,6 @@
-// Write your code here
+class breakFast{
+  constructor(food, drink){
+   this.food = food 
+   this.drink = drink
+  }
+}
